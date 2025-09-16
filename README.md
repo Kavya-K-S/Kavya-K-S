@@ -1,8 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71C7E&center=true&vCenter=true&width=500&lines=Hi+there👋%2C+I'm+Kavya!;)](https://git.io/typing-svg)
 
-<h3 align="center"> 🎓 MCA Student | 🌐 Web Development | 📱 App Development | 🤖 Deep Learning </h3>
 
+🎓 MCA Student | 🌐 Web Development | 📱 App Development | 🤖 Deep Learning Enthusiast
 
 ###  Languages I Work With
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-K-S&layout=compact&theme=radical)
