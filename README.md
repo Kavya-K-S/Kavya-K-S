@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71C7E&center=true&vCenter=true&width=500&lines=Hi+there👋%2C+I'm+Kavya!;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=MCA+Student;Exploring+Web+Development;Building+Apps;Diving+into+Deep+Learning)](https://git.io/typing-svg)
+
+<h3 align="center"> 🎓 MCA Student | 🌐 Web Development | 📱 App Development | 🤖 Deep Learning </h3>
 
 
 ###  Languages I Work With
