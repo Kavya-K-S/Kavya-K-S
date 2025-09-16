@@ -5,7 +5,7 @@
 🎓MCA Student |🌐Web Development |📱App Development |🤖Deep Learning Enthusiast
 
 ###  Languages I Work With
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-K-S&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-K-S&layout=compact&theme=tokyonight)
 ### Skills & Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
